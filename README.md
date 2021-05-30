@@ -1,4 +1,4 @@
-# Problem Statement
+# Problem Statement 🤔🤯
 
 * There are a lot of customer on a company's InvestorAI platform. Whenever they login in the app and view anything, the company get pings from their mobile phone indicating that they are using the app. 
 * Provided with 4 weeks of [sample data](https://github.com/AparGarg99/App_Usage_Prediction/tree/master/data) : 3 weeks of training data and 1 week of test data. 
@@ -7,5 +7,5 @@
 * So the test data contains customer id, and date (during the test data period). The test data also contains the actual online hours, which is what the model should predict.
 * Root Mean Squared Error (RMSE) must be the metric for evaluation.
 
-# My Solution
+# My Solution 💡
 [Click Here](https://github.com/AparGarg99/App_Usage_Prediction/blob/main/Solution.pdf)
