@@ -9,3 +9,8 @@
 
 # My Solution 💡
 [Click Here](https://github.com/AparGarg99/App_Usage_Prediction/blob/main/Solution.pdf)
+
+<br>
+<br>
+
+***Dont forget to give a ⭐ if you like this project !!***
